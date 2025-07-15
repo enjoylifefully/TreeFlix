@@ -1,0 +1,2 @@
+std::iter::TakeWhile<std::collections::btree_map::Range<'_, std::string::String, Movie>, {closure@src/main.rs:76:29: 76:41}>
+std::collections::btree_map::Range<'_, std::string::String, Movie>: std::convert::From<std::iter::TakeWhile<std::collections::btree_map::Range<'_, std::string::String, Movie>, {closure@src/main.rs:76:29: 76:41}>>

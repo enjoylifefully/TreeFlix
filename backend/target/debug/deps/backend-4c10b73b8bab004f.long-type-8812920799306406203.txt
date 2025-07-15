@@ -1,0 +1,1 @@
+std::result::Result<std::collections::BTreeMap<std::string::String, Movie>, std::io::Error>: rayon::iter::FromParallelIterator<(std::string::String, Movie)>

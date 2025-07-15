@@ -1,0 +1,1 @@
+std::result::Result<std::collections::BTreeMap<std::string::String, Movie>, std::io::Error>: std::convert::From<std::result::Result<_, serde_json::Error>>
