@@ -1,2 +1,0 @@
-fn(axum::extract::State<AppState>, axum::extract::Query<SearchParams>) -> impl std::future::Future<Output = axum::Json<std::vec::Vec<Movie>>> {search_movies}
-fn(axum::extract::State<AppState>, axum::extract::Query<SearchParams>) -> impl std::future::Future<Output = axum::Json<std::vec::Vec<Movie>>> {search_movies}: axum::handler::Handler<_, _>

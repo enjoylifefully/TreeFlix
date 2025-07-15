@@ -1,2 +1,0 @@
-fn(axum::extract::State<AppState>, Query<SearchParams>) -> impl Future<Output = Json<Vec<Movie>>> {search_movies}
-fn(axum::extract::State<AppState>, Query<SearchParams>) -> impl Future<Output = Json<Vec<Movie>>> {search_movies}: Handler<_, _>
